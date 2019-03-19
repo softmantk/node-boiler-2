@@ -1,0 +1,10 @@
+.vscode
+.idea
+apidoc
+node_modules
+.npm
+config/*.config.json
+logs
+*.log
+.env*
+!.env.example
